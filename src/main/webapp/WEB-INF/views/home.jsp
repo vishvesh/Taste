@@ -61,14 +61,14 @@
 									<div class="rm-logo"></div>
 									<h2>Taste</h2>
 									<h3>Call Today for Delivery/Take-Away</h3>
-
-									<a href="#" class="rm-button-open">View the Menu</a>
+									<div class="animated-hi"></div>
+									<a href="#" id="hover-title" class="rm-button-open animated pulse">View the Menu</a>
 									<div class="rm-info">
 										<p>
 										<strong>Taste - Take-Away Restaurant</strong><br><br>
 										<strong>Shop No. 6, Anannya Building,<br>
-										    Ghantali Mandir Road, Ghantali<br>
-    										Thane 400602<br>
+										    Ghantali Mandir Road,<br>
+    										Ghantali, Thane 400602<br><br>
 											Open Monday through Saturday:<br>
 											9:00 am - 10:00 pm<br><br></strong>
 										<strong>Phone: 2534 5657</strong><br>
