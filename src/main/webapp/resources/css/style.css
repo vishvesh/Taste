@@ -46,8 +46,8 @@
 .pulse { 
     animation-name: pulse; 
     -webkit-animation-name: pulse;
-    animation-iteration-count: infinite;
-    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: 3;
+    -webkit-animation-iteration-count: 3;
 }
 
 .animated-hi {
@@ -87,6 +87,11 @@
 @keyframes play {
    from { background-position:    0px; }
      to { background-position: -500px; }
+}
+
+.no-pointer {
+	pointer-events: none;
+    cursor: default;
 }
 
 .rm-container {

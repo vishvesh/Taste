@@ -1,5 +1,8 @@
+$(function() {
+	Menu.init();
+});
+
 var Menu = (function() {
-	
 	var $container = $( '#rm-container' ),						
 		$cover = $container.find( 'div.rm-cover' ),
 		$middle = $container.find( 'div.rm-middle' ),
@@ -7,46 +10,38 @@ var Menu = (function() {
 		$open = $cover.find('a.rm-button-open'),
 		$close = $right.find('span.rm-close'),
 		$details = $container.find( 'a.rm-viewdetails' ),
+		hoverTitle = $('#hover-title'),
 
 		init = function() {
-
 			initEvents();
-
 		},
 		initEvents = function() {
-
 			$open.on( 'click', function( event ) {
-
 				openMenu();
 				return false;
-
 			} );
 
 			$close.on( 'click', function( event ) {
-
 				closeMenu();
 				return false;
-
 			} );
 
 			$details.on( 'click', function( event ) {
-
 				$container.removeClass( 'rm-in' ).children( 'div.rm-modal' ).remove();
 				viewDetails( $( this ) );
 				return false;
-
-			} );
-			
+			} );	
 		},
 		openMenu = function() {
-
 			$container.addClass( 'rm-open' );
-
+			hoverTitle.hide();
 		},
 		closeMenu = function() {
-
 			$container.removeClass( 'rm-open rm-nodelay rm-in' );
-
+			/*setTimeout(function() {
+				hoverTitle.show();
+			}, 1000);*/
+			hoverTitle.show("slow");
 		},
 		viewDetails = function( recipe ) {
 
@@ -63,19 +58,11 @@ var Menu = (function() {
 			$modal.css( 'margin-top', -h / 2 );
 
 			setTimeout( function() {
-
 				$container.addClass( 'rm-in rm-nodelay' );
-
 				$modal.find( 'span.rm-close-modal' ).on( 'click', function() {
-
 					$container.removeClass( 'rm-in' );
-
-				} );
-			
+				} );		
 			}, 0 );
-
 		};
-
 	return { init : init };
-
 })();

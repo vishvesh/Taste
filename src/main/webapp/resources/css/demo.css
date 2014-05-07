@@ -80,8 +80,8 @@ strong {
 .codrops-top {
     line-height: 24px;
     font-size: 11px;
-    background: #fff;
-    background: rgba(255, 255, 255, 0.8);
+    /* background: #fff; */
+    background: rgba(0, 0, 0, 0.7);
     text-transform: uppercase;
     z-index: 9999;
     position: relative;
@@ -104,7 +104,7 @@ strong {
 .codrops-top a {
     padding: 0px 10px;
     letter-spacing: 1px;
-    color: #333;
+    color: white;
     display: inline-block;
 }
 
@@ -113,7 +113,8 @@ strong {
 }
 
 .codrops-top span.right {
-    float: right
+    float: right;
+    color: white;
 }
 
 .codrops-top span.right a {

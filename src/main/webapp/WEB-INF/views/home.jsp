@@ -15,26 +15,22 @@
     </head>
     <body>
         <div class="container">
-		
-			<!-- Codrops top bar -->
+			
             <div class="codrops-top">
-                <a href="http://tympanus.net/Tutorials/BigVideoSlideshow/">
-                    <strong>&laquo; Previous Demo: </strong>Fullscreen Video Slideshow with BigVideo.js
+                <a href="https://www.facebook.com/TasteTheTakeAwayRestaurant" target="_blank">
+                    <strong>&laquo; You can check out our Facebook Page </strong>
                 </a>
                 <span class="right">
-                	<a href="http://www.flickr.com/photos/hisgett/369087090/sizes/m/in/photostream/">Restaurant image by ahisgett</a>
-                    <a href="http://tympanus.net/codrops/?p=11029">
-                        <strong>Back to the Codrops Article</strong>
+                    <a href="#">
+                        <strong>Order by Phone: 2534 5657</strong>
                     </a>
                 </span>
-            </div><!--/ Codrops top bar -->
+            </div>
 			
 			<header>
-			
 				<h1>Taste - Take-Away Restaurant</h1>
 				<h2>
 					Munch on mouth-watering delicacies such as Momos, Frankie, Dosas, Curries, and many more.
-					<span class="demo-note">Your current viewport size shows the simplified version</span>
 				</h2>
 				
 				<div class="support-note"><!-- let's check browser support with modernizr -->
@@ -44,20 +40,14 @@
 					<span class="no-csstransitions">CSS transitions are not supported in your browser</span>
 					<span class="note-ie">Sorry, only modern browsers.</span>
 				</div>
-				
 			</header>
 			
 			<section class="main">
-
 				<div id="rm-container" class="rm-container">
-
 					<div class="rm-wrapper">
-
 						<div class="rm-cover">
-
 							<div class="rm-front">
 								<div class="rm-content">
-
 									<div class="rm-logo"></div>
 									<h2>Taste</h2>
 									<h3>Call Today for Delivery/Take-Away</h3>
@@ -73,7 +63,6 @@
 											9:00 am - 10:00 pm<br><br></strong>
 										<strong>Phone: 2534 5657</strong><br>
 									</div>
-
 								</div><!-- /rm-content -->
 							</div><!-- /rm-front -->
 
@@ -186,24 +175,14 @@
 									</div>
 								</div><!-- /rm-content -->
 							</div><!-- /rm-back -->
-
 						</div><!-- /rm-right -->
 					</div><!-- /rm-wrapper -->
-
 				</div><!-- /rm-container -->
-
 			</section>
 			
         </div>
 		<!-- jQuery if needed -->
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
         <script type="text/javascript" src="resources/js/menu.js"></script>
-		<script type="text/javascript">
-			$(function() {
-
-				Menu.init();
-			
-			});
-		</script>
     </body>
 </html>
