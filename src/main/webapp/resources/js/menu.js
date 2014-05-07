@@ -38,9 +38,6 @@ var Menu = (function() {
 		},
 		closeMenu = function() {
 			$container.removeClass( 'rm-open rm-nodelay rm-in' );
-			/*setTimeout(function() {
-				hoverTitle.show();
-			}, 1000);*/
 			hoverTitle.show("slow");
 		},
 		viewDetails = function( recipe ) {
