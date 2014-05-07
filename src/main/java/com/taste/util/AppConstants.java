@@ -1,4 +1,4 @@
-package com.adaranet.util;
+package com.taste.util;
 
 /**
  * @author vdeshmukh

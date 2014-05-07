@@ -16,9 +16,9 @@ public class TraceInterceptor extends CustomizableTraceInterceptor {
 	@Override
 	protected void writeToLog(Log logger, String message, Throwable ex) {
 		if (ex != null) {
-			logger4J.debug(message, ex);
+			logger4J.info(message, ex);
 		} else {
-			logger4J.debug(message);
+			logger4J.info(message);
 		}
 	}
 

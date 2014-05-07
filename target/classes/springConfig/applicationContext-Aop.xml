@@ -12,7 +12,7 @@
 	<aop:aspectj-autoproxy/>
 
 	<!-- For intercepting each Request Path - To get the path the request travels. -->
-	<bean id="customizableTraceInterceptor" class="com.adaranet.aop.TraceInterceptor"
+	<bean id="customizableTraceInterceptor" class="com.taste.aop.TraceInterceptor"
 		p:enterMessage="Entering $[targetClassShortName].$[methodName]($[arguments])"
 		p:exitMessage="Leaving $[targetClassShortName].$[methodName](): $[returnValue]"/>
 
