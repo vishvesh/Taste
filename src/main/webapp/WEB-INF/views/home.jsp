@@ -68,13 +68,16 @@
 
 							<div class="rm-back">
 								<div class="rm-content">
-									<h4>Appetizers</h4>
+									<h4>South Indian Breakfast Items:</h4>
 									<dl>
-										<dt>Bella's Artichokes</dt>
-										<dd>Roasted artichokes with chipotle aioli and cream cheese</dd>
-
-										<dt>Bruschetta Blue Delight</dt>
-										<dd>Blue cheese and citrus bruschetta</dd>
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/1.jpg">Steam Idli</a></dt>
+										<dd>Steam idli with delicious coconut chutni</dd>
+										
+										<dt>Medu Wada</dt>
+										<dd>Medu Wada with delicious coconut chutni</dd>
+										
+										<dt>Idli Wada</dt>
+										<dd>Idli Wada Wada with delicious coconut chutni</dd>
 
 										<dt>Pomme Dulse</dt>
 										<dd>Baked potatoes with crisped dulse</dd>
@@ -84,6 +87,15 @@
 										
 										<dt>Focaccia di Carciofi</dt>
 										<dd>Artichoke focaccia with fresh thyme</dd>
+									</dl>
+									
+									<h4>Our Special Dosas:</h4>
+									<dl>
+										<dt>Ginger Dosa</dt>
+										<dd>Delicious Ginger Dosa</dd>
+										
+										<dt>Kheema Dosa (Non-Veg)</dt>
+										<dd>Delicious Kheema Dosa</dd>
 									</dl>
 
 									<h4>Salads &amp; More</h4>

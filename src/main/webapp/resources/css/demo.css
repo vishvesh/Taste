@@ -37,7 +37,7 @@ strong {
 }
 
 .container > header {
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
     padding: 20px 10px 10px 10px;
     position: relative;
     display: block;
