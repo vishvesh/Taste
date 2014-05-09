@@ -94,6 +94,16 @@
     cursor: default;
 }
 
+.rm-content > dl > dt > a {
+	transition: margin 0.2s;
+	-moz-transition: margin 0.2s;
+	-webkit-transition: margin 0.2s;
+}
+
+.rm-content > dl > dt > a:hover {
+	margin-left: 15px;
+}
+
 .rm-container {
 	width: 33%;
 	height: 700px;
