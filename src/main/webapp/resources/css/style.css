@@ -286,12 +286,14 @@ a.rm-button-open,
 	padding-bottom: 2px;
 	color: #323b4c;
 	border-bottom: 4px double #323b4c;
+	border-top: 4px double #323B4D;
 	text-shadow: 1px 1px 0 #fff, 2px 2px 0 #E6B741;
 	letter-spacing: 2px;
 }
 
 .rm-content h4:not(:first-child) {
 	/* margin-top: 35px; */
+	margin-top: 5px;
 }
 
 a.rm-button-open {
@@ -325,6 +327,7 @@ a.rm-button-open:hover {
 .rm-content dl dt {
 	font-weight: 500;
 	text-transform: uppercase;
+	padding: 4px 5px 3px;
 }
 
 .rm-content dl dd {
