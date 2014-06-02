@@ -324,10 +324,16 @@ a.rm-button-open:hover {
 	margin: 0;
 }
 
+.rupees {
+	float: right;
+	font-size: 14px;
+}
+
 .rm-content dl dt {
 	font-weight: 500;
 	text-transform: uppercase;
 	padding: 4px 5px 3px;
+	text-align: left;
 }
 
 .rm-content dl dd {

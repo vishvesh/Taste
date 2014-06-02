@@ -91,17 +91,17 @@
 									
 									<h4>Our Special Dosas:</h4>
 									<dl>
-										<dt>Ginger Dosa</dt>
+										<dt>Ginger Dosa<span class="rupees">&#8377;50</span></dt>
 										<dd>Delicious Ginger Dosa</dd>
 										
-										<dt>Kheema Dosa (Non-Veg)</dt>
+										<dt>Kheema Dosa (Non-Veg)<span class="rupees">&#8377;90</span></dt>
 										<dd>Delicious Kheema Dosa</dd>
 									</dl>
 
-									<h4>Salads &amp; More</h4>
+									<h4>Momos</h4>
 									<dl>
-										<dt>Green Delight</dt>
-										<dd>Watercress, frisee and avocado salad</dd>
+										<dt>Veg Momos (Full / Half)<span class="rupees">&#8377;35 / &#8377;20</span></dt>
+										<dd>Delicious Vegetarian Momos</dd>
 
 										<dt><a href="http://herbivoracious.com/2010/02/thai-tofu-salad-recipe.html" class="rm-viewdetails" data-thumb="resources/images/13.jpg">Gourmet Yam Taohu</a></dt>
 										<dd>Thai tofu salad yam taohu</dd>
@@ -196,5 +196,6 @@
 		<!-- jQuery if needed -->
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
         <script type="text/javascript" src="resources/js/menu.js"></script>
+        <script type="text/javascript" src="resources/js/ga.js"></script>
     </body>
 </html>
