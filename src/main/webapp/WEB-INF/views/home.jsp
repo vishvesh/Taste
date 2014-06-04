@@ -100,19 +100,19 @@
 
 									<h4>Momos</h4>
 									<dl>
-										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/1.jpg">Veg Momos (Full / Half)</a><span class="rupees">&#8377;35 / &#8377;20</span></dt>
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/1.jpg">Veg Momos (Full/Half)</a><span class="rupees">&#8377;35 / &#8377;20</span></dt>
 										<dd>Delicious Vegetarian Momos</dd>
 	
-										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/1.jpg">Veg Fried Momos (Full / Half)</a><span class="rupees">&#8377;45 / &#8377;25</span></dt>
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/1.jpg">Veg Fried Momos (Full/Half)</a><span class="rupees">&#8377;45 / &#8377;25</span></dt>
 										<dd>Delicious Vegetarian Momos</dd>
 										
-										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/1.jpg">Paneer Momos (Full / Half)</a><span class="rupees">&#8377;45 / &#8377;25</span></dt>
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/1.jpg">Paneer Momos (Full/ Half)</a><span class="rupees">&#8377;45 / &#8377;25</span></dt>
 										<dd>Delicious Vegetarian Momos</dd>
 										
-										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/1.jpg">Paneer Fried Momos (Full / Half)</a><span class="rupees">&#8377;55 / &#8377;30</span></dt>
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/1.jpg">Paneer Fried Momos (Full/Half)</a><span class="rupees">&#8377;55 / &#8377;30</span></dt>
 										<dd>Delicious Vegetarian Momos</dd>
 										
-										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/chicken-momos.jpg">Chicken Momos (Full / Half)</a><span class="rupees">&#8377;45 / &#8377;25</span></dt>
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/chicken-momos.jpg">Chicken Momos (Full/Half)</a><span class="rupees">&#8377;45 / &#8377;25</span></dt>
 										<dd>Delicious Vegetarian Momos</dd>
 										
 										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/1.jpg">Chicken Fried Momos (Full/Half)</a><span class="rupees">&#8377;55 / &#8377;30</span></dt>
