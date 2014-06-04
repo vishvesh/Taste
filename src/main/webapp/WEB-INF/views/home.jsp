@@ -91,23 +91,32 @@
 									
 									<h4>Our Special Dosas:</h4>
 									<dl>
-										<dt>Ginger Dosa<span class="rupees">&#8377;50</span></dt>
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/ginger-dosa.jpg">Ginger Dosa</a><span class="rupees">&#8377;50</span></dt>
 										<dd>Delicious Ginger Dosa</dd>
 										
-										<dt>Kheema Dosa (Non-Veg)<span class="rupees">&#8377;90</span></dt>
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/kheema-dosa.jpg">Kheema Dosa (Non-Veg)</a><span class="rupees">&#8377;90</span></dt>
 										<dd>Delicious Kheema Dosa</dd>
 									</dl>
 
 									<h4>Momos</h4>
 									<dl>
-										<dt>Veg Momos (Full / Half)<span class="rupees">&#8377;35 / &#8377;20</span></dt>
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/1.jpg">Veg Momos (Full / Half)</a><span class="rupees">&#8377;35 / &#8377;20</span></dt>
 										<dd>Delicious Vegetarian Momos</dd>
-
-										<dt><a href="http://herbivoracious.com/2010/02/thai-tofu-salad-recipe.html" class="rm-viewdetails" data-thumb="resources/images/13.jpg">Gourmet Yam Taohu</a></dt>
-										<dd>Thai tofu salad yam taohu</dd>
-
-										<dt>Panini Deluxe</dt>
-										<dd>Buffalo mozzarella basil panini</dd>
+	
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/1.jpg">Veg Fried Momos (Full / Half)</a><span class="rupees">&#8377;45 / &#8377;25</span></dt>
+										<dd>Delicious Vegetarian Momos</dd>
+										
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/1.jpg">Paneer Momos (Full / Half)</a><span class="rupees">&#8377;45 / &#8377;25</span></dt>
+										<dd>Delicious Vegetarian Momos</dd>
+										
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/1.jpg">Paneer Fried Momos (Full / Half)</a><span class="rupees">&#8377;55 / &#8377;30</span></dt>
+										<dd>Delicious Vegetarian Momos</dd>
+										
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/chicken-momos.jpg">Chicken Momos (Full / Half)</a><span class="rupees">&#8377;45 / &#8377;25</span></dt>
+										<dd>Delicious Vegetarian Momos</dd>
+										
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/1.jpg">Chicken Fried Momos (Full/Half)</a><span class="rupees">&#8377;55 / &#8377;30</span></dt>
+										<dd>Delicious Vegetarian Momos</dd>
 									</dl>
 								</div><!-- /rm-content -->
 								<div class="rm-overlay"></div>
