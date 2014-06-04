@@ -73,19 +73,19 @@
 										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/1.jpg">Steam Idli</a></dt>
 										<dd>Steam idli with delicious coconut chutni</dd>
 										
-										<dt>Medu Wada</dt>
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/1.jpg">Medu Wada</a></dt>
 										<dd>Medu Wada with delicious coconut chutni</dd>
 										
-										<dt>Idli Wada</dt>
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/1.jpg">Idli Wada</a></dt>
 										<dd>Idli Wada Wada with delicious coconut chutni</dd>
 
-										<dt>Pomme Dulse</dt>
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/1.jpg">Pomme Dulse</a></dt>
 										<dd>Baked potatoes with crisped dulse</dd>
 
-										<dt><a href="http://herbivoracious.com/2011/11/crostini-with-young-pecorino-grilled-figs-and-arugula-mint-pesto-recipe.html" class="rm-viewdetails" data-thumb="resources/images/1.jpg">Green Love Crostini</a></dt>
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/1.jpg">Green Love Crostini</a></dt>
 										<dd>Crostini with young pecorino, grilled figs and arugula &amp; mint pesto</dd>
 										
-										<dt>Focaccia di Carciofi</dt>
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/1.jpg">Focaccia di Carciofi</a></dt>
 										<dd>Artichoke focaccia with fresh thyme</dd>
 									</dl>
 									
@@ -130,28 +130,28 @@
 								<div class="rm-content">
 									<h4>Main Courses</h4>
 									<dl>
-										<dt><a href="http://herbivoracious.com/2009/03/panfried-gnocchi-with-arugula-recipe.html" class="rm-viewdetails" data-thumb="resources/images/11.jpg">Crispy Gnocchi with Arugula</a></dt>
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/11.jpg">Crispy Gnocchi with Arugula</a></dt>
 										<dd>Pan-fried potato gnocchi with arugula salad</dd>
 
-										<dt>Sea Palm Spicy Peanut Curry</dt>
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/1.jpg">Sea Palm Spicy Peanut Curry</a></dt>
 										<dd>Tender sea palm noodles, seasoned vegetables, spicy peanut curry and tempeh fenel croquettes</dd>
 
-										<dt><a href="http://herbivoracious.com/2012/09/caviar-lentil-salad-with-arugula-crispy-shallots-and-roasted-garlic-recipe.html" class="rm-viewdetails" data-thumb="resources/images/8.jpg">Lentil Caviar &amp; Arugula</a></dt>
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/8.jpg">Lentil Caviar &amp; Arugula</a></dt>
 										<dd>Black lentil curry with arugula salad, caramelized shallots and roasted garlic</dd>
 
-										<dt>Tamari-Maple Glazed Tofu</dt>
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/1.jpg">Tamari-Maple Glazed Tofu</a></dt>
 										<dd>Wasabi emulsion, sesame seeds and scallions</dd>
 
-										<dt>Maple Barbeque Tofu</dt>
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/1.jpg">Maple Barbeque Tofu</a></dt>
 										<dd>Grilled marinated tofu, maple barbeque sauce, tahini slaw, grilled seasonal vegetables and mashed potatoes</dd>
 																													
-										<dt><a href="http://herbivoracious.com/2012/07/king-oyster-mushroom-with-roasted-cherries-and-sage-no-that-isnt-meat-recipe-and-thought-process.html" class="rm-viewdetails" data-thumb="resources/images/4.jpg">Luxur Oyster</a></dt>
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/4.jpg">Luxur Oyster</a></dt>
 										<dd>King oyster mushroom with roasted cherries and sage</dd>
 										
-										<dt><a href="http://herbivoracious.com/2012/09/rigatoni-with-roasted-cauliflower-and-spicy-tomato-sauce-recipe.html" class="rm-viewdetails" data-thumb="resources/images/3.jpg">Rigatoni di Cavolfiore</a></dt>
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/3.jpg">Rigatoni di Cavolfiore</a></dt>
 										<dd>Rigatoni with roasted cauliflower and spicy tomato sauce</dd>
 										
-										<dt><a href="http://herbivoracious.com/2012/06/saffron-chickpea-stew-with-grilled-porcini-mushroom-recipe.html" class="rm-viewdetails" data-thumb="resources/images/14.jpg">Saffron Chana Secret</a></dt>
+										<dt><a href="#" class="rm-viewdetails" data-thumb="resources/images/14.jpg">Saffron Chana Secret</a></dt>
 										<dd>Saffron chickpea stew with grilled porcini mushrooms</dd>
 									</dl>
 								</div><!-- /rm-content -->
