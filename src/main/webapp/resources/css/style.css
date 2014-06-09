@@ -293,7 +293,7 @@ a.rm-button-open,
 
 .rm-content h4:not(:first-child) {
 	/* margin-top: 35px; */
-	margin-top: 5px;
+	margin-top: 10px;
 }
 
 a.rm-button-open {
