@@ -10,4 +10,5 @@
 })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
 ga('create', 'UA-51266559-1', 'the-taste.in');
+ga('require', 'displayfeatures');
 ga('send', 'pageview');
