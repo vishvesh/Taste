@@ -23,7 +23,7 @@
                 </a>
                 <span class="right">
                     <a href="#">
-                        <strong>Order by Phone: 2534 5657</strong>
+                        <strong>Order by Phone: 022-25345657 / +91-99206-95909</strong>
                     </a>
                 </span>
             </div>
@@ -62,7 +62,7 @@
     										Ghantali, Thane 400602<br><br>
 											Open Monday through Saturday:<br>
 											9:00 am - 10:00 pm<br><br></strong>
-										<strong>Phone: 2534 5657</strong><br>
+										<strong>Phone: 022-25345657 / +91-99206-95909</strong><br>
 									</div>
 								</div><!-- /rm-content -->
 							</div><!-- /rm-front -->
@@ -293,7 +293,7 @@
 									</dl>
 									
 									<div class="rm-order">
-										<p><strong>Would you like us to cater your event?</strong> Call us &amp; we'll help you find a venue and organize the event: <strong>2-534-5657</strong></p>
+										<p><strong>Would you like us to cater your event?</strong> Call us &amp; we'll help you find a venue and organize the event: <strong>022-25345657 / +91-99206-95909</strong></p>
 									</div>
 								</div><!-- /rm-content -->
 							</div><!-- /rm-back -->
